@@ -1,1 +1,2 @@
 INI BARIS SATU
+ini baris dua
